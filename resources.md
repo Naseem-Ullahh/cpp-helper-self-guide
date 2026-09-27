@@ -1,1 +1,1 @@
-- [Data Structures by mycodeshool](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&si=qzRuoKqIS-cQy6aK)
+- [Data Structures Playlist by mycodeshool](https://youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&si=qzRuoKqIS-cQy6aK)
